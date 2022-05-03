@@ -3,4 +3,3 @@
         Favorite food: Fast Food,
         Favorite time of the year: Summer,
         Side you would like tovisit: USA
-
