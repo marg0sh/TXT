@@ -1,4 +1,4 @@
-  ID: ID
+        ID: ID
 	Summary: Summary
 	Description: Description
 	Actual result: Actual result
